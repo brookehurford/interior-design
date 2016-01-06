@@ -5,9 +5,22 @@ img {
   padding-right: 10px;
 }
 
-.column {
+.column1 {
   width: 33%;
   float: left;
+  background-color: yellow;
+}
+
+.column2 {
+  width: 33%;
+  float: left;
+  background-color: purple;
+}
+
+.column3 {
+  width: 33%;
+  float: left;
+  background-color: red;
 }
 
 body {
